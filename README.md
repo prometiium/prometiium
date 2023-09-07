@@ -1,4 +1,3 @@
 has traditional finance past 
 he is on the map
-
-setuP.exe doesn't work!
+  setuP.exe doesn't work
