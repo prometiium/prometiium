@@ -1,5 +1,0 @@
-f=open('test.txt','a')
-a=input('hangisi?')
-f.newlines(1)
-f.write(a)
-f.close()
