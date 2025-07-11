@@ -1,7 +1,0 @@
-pip install requests
-pip install time
-pip install json
-pip install web3 
-pip install Tuple
-pip install tronpy
-pip install sys
